@@ -1,6 +1,6 @@
 ### Olá Mundo 🌎
 ---------------------------------------------------------------------------------------------------------------------------------------
-Meu nome é Talita Ventura,sou apaixonada por programação, novas tecnologias e rochas.
+Meu nome é Talita Ventura, sou apaixonada por programação, novas tecnologias e rochas.
 Acredite ou não gosto de trabalhar com as 3 ao mesmo tempo. Atualmente sou aluna do último ano do curso de Geografia na USP, e atuo como estagiária em desenvolvimento e programação.
 
 ### Projetos 🚀
