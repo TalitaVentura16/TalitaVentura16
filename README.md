@@ -4,13 +4,9 @@ Quem sou eu?
 
 👋 Meu nome é Talita Ventura e sou apaixonada por programação, novas tecnologias e geociências. Acredite ou não, gosto de trabalhar com essas três áreas ao mesmo tempo!
 
-🎓 Me formei em Geografia pela FFLCH-USP 🐱 e tenho um imenso orgulho de ser uma eterna FFLCHER! 💙 Minha jornada me levou a explorar desde clima e modelagem climática até o uso de geotecnologias para análise espacial.
+🎓 Me formei em Geografia pela FFLCH-USP 🐱 e tenho um imenso orgulho de ser uma eterna FFLCHER! 💙 
 
-📚 Mas a curiosidade nunca acaba! Agora estou em uma nova jornada:
-
-🎓 Estudo Engenharia de Minas e Petróleo na Escola Politécnica da USP 🐭, onde mergulho de cabeça em Geologia, Mineração, Petróleo, Matemática e Física. Afinal, engenharia exige cálculos de respeito, né? 🔥
-
-🛰️ No meio disso tudo, sigo explorando geoprocessamento, ciência de dados e modelagem climática, sempre buscando formas de unir Geociências e Tecnologia para resolver problemas reais!
+🎓 Estudo Engenharia de Minas e Petróleo na Escola Politécnica da USP 🐭
 
 ### Projetos 🚀
 ---------------------------------------------------------------------------------------------------------------------------------------
